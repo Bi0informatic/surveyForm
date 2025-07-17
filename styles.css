@@ -16,11 +16,13 @@ fieldset {
 
 input {
     display: block;
-    width: 500px;
+    width: 100%;
     background-color: #192733;
+    border: 1px solid #223546;
 }
 .inline {
     display: inline;
     width: unset;
     vertical-align: middle;
 }
+
