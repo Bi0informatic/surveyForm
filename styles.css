@@ -33,3 +33,17 @@ form {
     border-top: 0.5em solid #192733; 
     border-bottom: 1em solid #192733; 
 }
+
+textarea {
+    display: block;
+    width: 500px;
+    height: 100px;
+}
+
+#submit {
+    display: block;
+    width: 300px;
+    margin: 0.5em auto;
+    font-size: 1.1rem;
+    border: 1px solid #192733;
+}
