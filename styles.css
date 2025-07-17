@@ -28,3 +28,8 @@ input {
     vertical-align: middle;
 }
 
+form {
+    background-color: #192733;
+    border-top: 0.5em solid #192733; 
+    border-bottom: 1em solid #192733; 
+}
