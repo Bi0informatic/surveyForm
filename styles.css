@@ -19,3 +19,8 @@ input {
     width: 500px;
     background-color: #192733;
 }
+.inline {
+    display: inline;
+    width: unset;
+    vertical-align: middle;
+}
