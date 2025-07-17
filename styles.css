@@ -1,3 +1,21 @@
 #title, #description {
     text-align: center;
 }
+
+body {
+    background-color: #245B47;
+    color: white;
+}
+
+fieldset {
+    background-color: #223546;
+    max-width: 500px;
+    margin: auto;
+    border: none;
+}
+
+input {
+    display: block;
+    width: 500px;
+    background-color: #192733;
+}
